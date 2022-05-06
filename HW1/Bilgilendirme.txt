@@ -1,0 +1,6 @@
+//-----------------------------------------------------
+// Title: hw1 part1 and part2 is in the src file
+// Author: Fatih Mehmet Yiğitel
+// ID: 3865115490
+// Section: 2
+// Assignment: 1
