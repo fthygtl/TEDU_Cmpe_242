@@ -1,0 +1,6 @@
+schedule lunch 1300 30
+schedule fun 7200 2300
+schedule programming 2359 300
+schedule game 3400 400
+schedule walk 4300 200
+run 2400
